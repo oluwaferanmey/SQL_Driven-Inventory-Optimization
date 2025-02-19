@@ -66,6 +66,7 @@ External Factors: GDP, inflation rates, and seasonal factors.
 ### Tech Stack
 
 MySQL: For data analysis, manipulation, and optimization.
+
 PowerBI: For visualization.
 
 ### Project Scope
